@@ -1,4 +1,4 @@
-# SYNC-INTERN-S
+# SYNC-INTERN-S 😎😍
 A separate GitHub repository (SYNC-INTERN-S-WEB) for all the tasks.
 
 ## [TASK - 01](https://jeet00007.github.io/Product-Landing-Page/)
@@ -7,16 +7,16 @@ Name- PRODUCT LANDING PAGE
 **live demo: [Click Here!](https://jeet00007.github.io/Product-Landing-Page/)**
 
 ## [TASK - 02](#)
-Name- WEB APPLICATION 
+Name- QUIZ APP USING JAVASCRIPT 
 
 **live demo: [Click Here!](#)**
 
 ## [TASK - 03](#)
-Name- REGISTRATION FORM 
+Name- MUSIC PLAYER USING HTML, CSS, JAVASCRIPT. 
 
 **live demo: [Click Here!](#)**
 
 ## [TASK - 04](#)
-Name- CALCULATOR
+Name- E-LEARNING WEBSITE
 
 **live demo: [Click Here!](#)**
