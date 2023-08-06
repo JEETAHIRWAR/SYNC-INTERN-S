@@ -6,17 +6,17 @@ Name- PRODUCT LANDING PAGE
 
 **live demo: [Click Here!](https://jeet00007.github.io/Product-Landing-Page/)**
 
-## [TASK - 02](https://github.com/JEET00007/react-web.application)
+## [TASK - 02](#)
 Name- WEB APPLICATION 
 
-**live demo: [Click Here!](https://jeet00007.github.io/react-web.application/)**
+**live demo: [Click Here!](#)**
 
-## [TASK - 03](https://github.com/JEET00007/registration-form)
+## [TASK - 03](#)
 Name- REGISTRATION FORM 
 
-**live demo: [Click Here!](https://jeet00007.github.io/registration-form/)**
+**live demo: [Click Here!](#)**
 
-## [TASK - 04](https://github.com/JEET00007/reactjs-calculator)
+## [TASK - 04](#)
 Name- CALCULATOR
 
-**live demo: [Click Here!](https://jeet00007.github.io/reactjs-calculator/)**
+**live demo: [Click Here!](#)**
