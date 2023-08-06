@@ -1,7 +1,7 @@
 # SYNC-INTERN-S 😎😍
 A separate GitHub repository (SYNC-INTERN-S-WEB) for all the tasks.
 
-## [TASK - 01](https://jeet00007.github.io/Product-Landing-Page/)
+## [TASK - 01](https://github.com/JEET00007/Product-Landing-Page/tree/main)
 Name- PRODUCT LANDING PAGE
 
 **live demo: [Click Here!](https://jeet00007.github.io/Product-Landing-Page/)**
