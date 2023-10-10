@@ -1,10 +1,10 @@
 # SYNC-INTERN-S 😎😍
 A separate GitHub repository (SYNC-INTERN-S-WEB) for all the tasks.
 
-## [TASK - 01](https://github.com/jeetahirwar/Product-Landing-Page/tree/main)
+## [TASK - 01](https://github.com/jeetahirwar/Product_Landing_Page/tree/main)
 Name- PRODUCT LANDING PAGE
 
-**live demo: [Click Here!](https://jeetahirwar.github.io/Product-Landing-Page/)**
+**live demo: [Click Here!](https://jeetahirwar.github.io/Product_Landing_Page/)**
 
 ## [TASK - 02](#)
 Name- QUIZ APP USING JAVASCRIPT 
